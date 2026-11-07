@@ -1,16 +1,13 @@
-## Hi there 👋
+> **Status:** `compilando` uma nova carreira em tecnologia 🚀
 
-<!--
-**yogadeva/yogadeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 **Origem:** 5 anos em tráfego pago (Google Ads, Meta Ads)
+- 🎓 **Agora:** Bacharelado em Engenharia de Software (cursando)
+- 🛠️ **Bagagem:** GTM, testes A/B, CRO, CRM, Looker Studio, ClickUp, Metodologia Ágil
+- 🤖 **IA no dia a dia:** Gemini e Claude para análise, copy e produtividade
+- 🗣️ **Experiência em explicar assuntos técnicos para quem não é da área
+- 📊 **Visão de **dados e métricas** para tomar decisões.
+- 🧘 **Curiosidade:** antes de tudo isso, fui Yoga Therapist em Portugal.
+  Foco, disciplina e paciência também compilam código.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ git commit -m "de gestor de tráfego a engenheiro de software"
