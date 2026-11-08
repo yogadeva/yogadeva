@@ -1,7 +1,7 @@
 <h3 align="center"><code>yogadeva@github ~ $ whoami</code></h3>
 
 <p align="center">
-  <img src="portrait_scarface.svg" width="49%" alt="yogadeva@github: ~$ ./portrait.sh" />
+  <img src="portrait_mandala.svg" width="49%" alt="yogadeva@github: ~$ ./portrait.sh" />
   <img src="curriculo_terminal.svg" width="49%" alt="augusto@github: ~$ ./resume.sh" />
 </p>
 
